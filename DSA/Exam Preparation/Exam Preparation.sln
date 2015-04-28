@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Frames", "01. Frames\01. Frames.csproj", "{AB30FE4A-D10B-4ACF-85DE-AE5D1A688090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Frames", "01.Frames\01.Frames.csproj", "{2FA3100E-C91A-41EE-B0AC-44C818A82728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB30FE4A-D10B-4ACF-85DE-AE5D1A688090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30FE4A-D10B-4ACF-85DE-AE5D1A688090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30FE4A-D10B-4ACF-85DE-AE5D1A688090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30FE4A-D10B-4ACF-85DE-AE5D1A688090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA3100E-C91A-41EE-B0AC-44C818A82728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA3100E-C91A-41EE-B0AC-44C818A82728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA3100E-C91A-41EE-B0AC-44C818A82728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA3100E-C91A-41EE-B0AC-44C818A82728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

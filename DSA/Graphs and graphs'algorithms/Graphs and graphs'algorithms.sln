@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesho's friends", "ConsoleApplication1\Pesho's friends.csproj", "{0B2B458A-C332-470D-B224-F20E1F62E703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{12DE02D3-4175-40DB-A965-053413D7B9E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum spanning forest", "Minimum spanning forest\Minimum spanning forest.csproj", "{5EF9FA6B-481F-44AF-BB29-BF0CA14A6D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2B458A-C332-470D-B224-F20E1F62E703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2B458A-C332-470D-B224-F20E1F62E703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2B458A-C332-470D-B224-F20E1F62E703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2B458A-C332-470D-B224-F20E1F62E703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DE02D3-4175-40DB-A965-053413D7B9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DE02D3-4175-40DB-A965-053413D7B9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DE02D3-4175-40DB-A965-053413D7B9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DE02D3-4175-40DB-A965-053413D7B9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF9FA6B-481F-44AF-BB29-BF0CA14A6D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF9FA6B-481F-44AF-BB29-BF0CA14A6D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF9FA6B-481F-44AF-BB29-BF0CA14A6D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF9FA6B-481F-44AF-BB29-BF0CA14A6D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
