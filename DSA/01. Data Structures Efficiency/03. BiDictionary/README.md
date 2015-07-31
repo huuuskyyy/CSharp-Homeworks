@@ -1,0 +1,1 @@
+<b>Implement a class BiDictionary<K1,K2,T> that allows adding triples {key1, key2, value} and fast search by key1, key2 or by both key1 and key2. Note: multiple values can be stored for given key.</b>
